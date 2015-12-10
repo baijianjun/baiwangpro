@@ -16,6 +16,12 @@
 			<artifactId>quasar-core</artifactId>
 			<version>0.7.3</version>
 		</dependency>
+		<dependency>
+			<groupId>org.testng</groupId>
+			<artifactId>testng</artifactId>
+			<version>6.9.7</version>
+		</dependency>
+
 
 	</dependencies>
 	<build>
